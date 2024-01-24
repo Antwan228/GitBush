@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-24T05:02:36.353Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="SBNMxBRusujNyk5TryUm" version="22.1.20" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-24T05:09:12.038Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="KEjpMzZalL6mETFToeWm" version="22.1.20" type="github">
   <diagram name="Страница — 1" id="-isNiKXUA1zVR6VBVtQ_">
-    <mxGraphModel dx="828" dy="1215" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1173" dy="1722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -90,12 +90,139 @@
             <mxPoint x="33" y="797" as="sourcePoint" />
             <mxPoint x="59" y="957" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="33" y="957" />
+              <mxPoint x="33" y="940" />
+              <mxPoint x="59" y="940" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="IcKPDsvwdKif-prZPxeq-27" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;Ведение делопроизводства, бухгалтерии, организация работы школы.&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="917" width="340" height="90" as="geometry" />
+          <mxGeometry x="60" y="900" width="340" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IcKPDsvwdKif-prZPxeq-28" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Руководитель школы отвечает за разработку стратегии развития, установление контактов с партнерами, организацию мероприятий, прием и увольнение сотрудников, контроль финансовой деятельности.&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="257" width="340" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="IcKPDsvwdKif-prZPxeq-29" value="" style="endArrow=none;html=1;rounded=0;entryX=0.098;entryY=1.039;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="413" y="317" as="sourcePoint" />
+            <mxPoint x="413.06799999999987" y="209.34000000000015" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IcKPDsvwdKif-prZPxeq-30" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="317" as="sourcePoint" />
+            <mxPoint x="440" y="317" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IcKPDsvwdKif-prZPxeq-31" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 19px;&quot;&gt;Заведующий учебной частью разрабатывает учебные планы и программы, контролирует учебный процесс, организует работу преподавателей.&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="417" width="340" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="IcKPDsvwdKif-prZPxeq-32" value="" style="edgeStyle=segmentEdgeStyle;endArrow=none;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="413" y="477" as="sourcePoint" />
+            <mxPoint x="439" y="637" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="413" y="637" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IcKPDsvwdKif-prZPxeq-33" value="" style="edgeStyle=segmentEdgeStyle;endArrow=none;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="413" y="317" as="sourcePoint" />
+            <mxPoint x="439" y="477" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="413" y="477" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IcKPDsvwdKif-prZPxeq-34" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;Преподаватель проводит занятия с учениками, разрабатывает учебные материалы, проверяет выполненные задания.&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="577" width="340" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="IcKPDsvwdKif-prZPxeq-35" value="" style="edgeStyle=segmentEdgeStyle;endArrow=none;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="413" y="637" as="sourcePoint" />
+            <mxPoint x="439" y="797" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="413" y="797" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IcKPDsvwdKif-prZPxeq-36" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Методист занимается методической работой, разработкой учебных пособий, проведением семинаров и тренингов для преподавателей.&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="737" width="340" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="IcKPDsvwdKif-prZPxeq-37" value="" style="endArrow=none;html=1;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="IcKPDsvwdKif-prZPxeq-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="413" y="797" as="sourcePoint" />
+            <mxPoint x="439" y="957" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="413" y="945" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IcKPDsvwdKif-prZPxeq-38" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Административный персонал занимается делопроизводством, ведением бухгалтерии, организацией работы школы.&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="900" width="340" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IcKPDsvwdKif-prZPxeq-42" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;Управление директором школы, включающее разработку стратегии развития, установление контактов с партнерами, организацию мероприятий, прием и увольнение сотрудников, контроль финансовой деятельности.&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="257.66" width="340" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="IcKPDsvwdKif-prZPxeq-43" value="" style="endArrow=none;html=1;rounded=0;entryX=0.098;entryY=1.039;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="317.66" as="sourcePoint" />
+            <mxPoint x="800.0679999999999" y="210.00000000000014" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IcKPDsvwdKif-prZPxeq-44" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="801" y="317.66" as="sourcePoint" />
+            <mxPoint x="827" y="317.66" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IcKPDsvwdKif-prZPxeq-45" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot; face=&quot;Times New Roman&quot;&gt;Управление заведующим учебной частью, включающее разработку учебных планов и программ, контроль учебного процесса, организацию работы преподавателей&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="417.66" width="340" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="IcKPDsvwdKif-prZPxeq-46" value="" style="edgeStyle=segmentEdgeStyle;endArrow=none;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="477.66" as="sourcePoint" />
+            <mxPoint x="826" y="637.66" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="800" y="637.66" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IcKPDsvwdKif-prZPxeq-47" value="" style="edgeStyle=segmentEdgeStyle;endArrow=none;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="317.66" as="sourcePoint" />
+            <mxPoint x="826" y="477.66" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="800" y="477.66" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IcKPDsvwdKif-prZPxeq-48" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;Управление преподавателем, включающее проведение занятий с учениками, разработку учебных материалов, проверку выполненных заданий.&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="577.66" width="340" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="IcKPDsvwdKif-prZPxeq-49" value="" style="edgeStyle=segmentEdgeStyle;endArrow=none;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="637.66" as="sourcePoint" />
+            <mxPoint x="826" y="797.66" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="800" y="797.66" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IcKPDsvwdKif-prZPxeq-50" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Управление методистом, включающее методическую работу, разработку учебных пособий, проведение семинаров и тренингов для преподавателей.&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="737.66" width="340" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="IcKPDsvwdKif-prZPxeq-51" value="" style="endArrow=none;html=1;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="IcKPDsvwdKif-prZPxeq-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="797.66" as="sourcePoint" />
+            <mxPoint x="826" y="957.66" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="800" y="945.66" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IcKPDsvwdKif-prZPxeq-52" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot; face=&quot;Times New Roman&quot;&gt; Управление административным персоналом, включающее ведение делопроизводства, бухгалтерии, организацию работы школы.&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="900.66" width="340" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
