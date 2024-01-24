@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-24T01:39:54.366Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="ia0ZgHWNglp9kdPpaBQI" version="22.1.20" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-24T01:40:32.311Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="Lg-bWvKlLkJBnMfuABNd" version="22.1.20" type="github">
   <diagram name="Страница — 1" id="czUcI-qYhw4pRouQP_-Z">
     <mxGraphModel dx="755" dy="1072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="3foTuXjZa9yjILKBP0uG-3" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="337" y="34.38" width="154" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="3foTuXjZa9yjILKBP0uG-4" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;заключение контракта&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="3foTuXjZa9yjILKBP0uG-4" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;Заключение контракта&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="380" width="130" height="110" as="geometry" />
         </mxCell>
         <mxCell id="3foTuXjZa9yjILKBP0uG-5" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
