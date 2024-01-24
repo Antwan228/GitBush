@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-24T01:50:14.342Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="wbq5Vs8binMPSrWDKKlg" version="22.1.20" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-24T01:50:49.717Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="7IB5SmlkrpJ85JWjXfUx" version="22.1.20" type="github">
   <diagram name="Страница — 1" id="czUcI-qYhw4pRouQP_-Z">
     <mxGraphModel dx="1582" dy="1072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -366,6 +366,20 @@
             <Array as="points">
               <mxPoint x="260" y="620" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qbAMwlXeR4gNUbQ7bPje-80" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;exitX=0.6;exitY=1.009;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.105;entryY=0.857;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="3foTuXjZa9yjILKBP0uG-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="467.99999999999994" y="591.4440500000001" as="sourcePoint" />
+            <mxPoint x="293.2" y="590.45" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="358.2" y="620.45" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qbAMwlXeR4gNUbQ7bPje-81" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;запрос&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="qbAMwlXeR4gNUbQ7bPje-80">
+          <mxGeometry x="-0.113" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
