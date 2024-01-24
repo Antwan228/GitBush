@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-24T01:12:48.007Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="HnUcYDNgekqtR9wvvuKy" version="22.1.20" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-24T01:14:23.667Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="V8MM-Hk8-6M6wKiGV0wT" version="22.1.20" type="github">
   <diagram name="Страница — 1" id="czUcI-qYhw4pRouQP_-Z">
     <mxGraphModel dx="783" dy="1282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -69,6 +69,11 @@
         <mxCell id="qbAMwlXeR4gNUbQ7bPje-1" value="&lt;font style=&quot;font-size: 21px;&quot; face=&quot;Times New Roman&quot;&gt;Закупка материалов&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="348" y="50" width="142" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="qbAMwlXeR4gNUbQ7bPje-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="qbAMwlXeR4gNUbQ7bPje-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="79.53846153846143" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="qbAMwlXeR4gNUbQ7bPje-4" value="&lt;font style=&quot;font-size: 25px;&quot; face=&quot;Times New Roman&quot;&gt;Поставщик&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="630" y="61.25" width="160" height="37.5" as="geometry" />
         </mxCell>
@@ -86,6 +91,9 @@
         </mxCell>
         <mxCell id="qbAMwlXeR4gNUbQ7bPje-10" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;Деньги&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="250" y="50" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qbAMwlXeR4gNUbQ7bPje-12" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 20px;&quot;&gt;Договор на поставку&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="520" y="40" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
